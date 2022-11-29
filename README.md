@@ -13,3 +13,5 @@ At the end of the analysis, I managed to find two types of indicators:
 - Shower snow
 - Light rain and snow
 - Proximity thunderstorm with drizzle
+You can view the jupyter notebook file [here.](https://nbviewer.org/urls/community.dataquest.io/uploads/short-url/4K9ktTZUvuEPnhv7FlRAqzzkqRr.ipynb)
+Thank You. 
